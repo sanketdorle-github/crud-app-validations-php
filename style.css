@@ -1,0 +1,27 @@
+#main-title{
+    text-align: center;
+    padding: 12px;
+    color: #fff;
+    background-color:gray;
+}
+.box1 h2{
+    float: left;
+}
+.box1 button{
+    float: right;
+}
+
+#warningModal{
+    text-align: center;
+    color: #fff;
+    background-color: red;
+    width: 20%;
+    height: 30%;
+
+}
+th, td {
+    border: 1px solid black;
+    text-align: center; /* Centers the text horizontally */
+    vertical-align: middle; /* Centers the text vertically */
+    padding: 8px;
+}
